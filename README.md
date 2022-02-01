@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Karina Montero L.
+- 👋 Hi, I’m Karina Montero Leonardo.
 - 👀 I’m interested web development.
 - 🌱 I’m currently learning about web design.
 - 💞️ I’m looking to collaborate on web proyect.
